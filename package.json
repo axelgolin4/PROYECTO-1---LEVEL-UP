@@ -1,0 +1,19 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "description": "Primer proyecto de LevelUp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/axelgolin4/PROYECTO-1---LEVEL-UP.git"
+  },
+  "author": "Axel Rodas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axelgolin4/PROYECTO-1---LEVEL-UP/issues"
+  },
+  "homepage": "https://github.com/axelgolin4/PROYECTO-1---LEVEL-UP#readme"
+}
